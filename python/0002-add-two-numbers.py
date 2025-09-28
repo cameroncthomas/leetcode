@@ -11,6 +11,8 @@ class Solution:
         # Traverse through lists. Total up node vals and any carry from previous sum.
         # Since total may exceed 9, set current node val = total % 10 and keep track
         # of carry = total // 10. If node is None treat its val as zero.
+        # TC: O(max(m,n)), where m and n are the lengths of l1 and l2 respectively.
+        # SC: O(1), since size of output is not considered in analysis.
 
         dummy = ListNode()
         tail = dummy
