@@ -9,6 +9,7 @@ In the table below, you will find the original LeetCode problem and my solution 
 ## Problems and Solutions
 
 | # | Title | Difficulty | Solution |
-| :-------------: | :-------------: | :-------------: | :-------------: |
+| :-------------: | :------------- | :-------------: | :-------------: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](python/0001-two-sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](python/0002-add-two-numbers.py)|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Python](python/0003-longest-substring-without-repeating-characters.py)|
