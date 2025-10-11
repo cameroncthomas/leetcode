@@ -17,3 +17,4 @@ In the table below, you will find the original LeetCode problem and my solution 
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `Easy` | [Python](python/0009-palindrome-number.py)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Medium` | [Python](python/0011-container-with-most-water.py)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | [Python](python/0013-roman-to-integer.py)|
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | `Easy` | [Python](python/0014-longest-common-prefix.py)|
