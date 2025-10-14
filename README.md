@@ -19,3 +19,4 @@ In the table below, you will find the original LeetCode problem and my solution 
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | [Python](python/0013-roman-to-integer.py)|
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | `Easy` | [Python](python/0014-longest-common-prefix.py)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | [Python](python/0015-3sum.py)|
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | [Python](python/0017-letter-combinations-of-a-phone-number.py)|
