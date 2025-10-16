@@ -21,3 +21,4 @@ In the table below, you will find the original LeetCode problem and my solution 
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | [Python](python/0015-3sum.py)|
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | [Python](python/0017-letter-combinations-of-a-phone-number.py)|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Medium` | [Python](python/0019-remove-nth-node-from-end-of-list.py)|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [Python](python/0020-valid-parentheses.py)|
