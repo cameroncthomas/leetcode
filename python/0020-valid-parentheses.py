@@ -11,6 +11,7 @@ class Solution:
         # Otherwise, we'll append the ch to stack if of opening type and pop from stack
         # if of correct closing type.
         # If s is valid, then stack should be empty after completing loop through s.
+        # TC: one-pass O(n), SC: O(n), where n is length of s.
 
         close_to_open = {")": "(", "}": "{", "]": "["}
         stack = []
