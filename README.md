@@ -22,3 +22,4 @@ In the table below, you will find the original LeetCode problem and my solution 
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | [Python](python/0017-letter-combinations-of-a-phone-number.py)|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Medium` | [Python](python/0019-remove-nth-node-from-end-of-list.py)|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [Python](python/0020-valid-parentheses.py)|
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | [Python](python/0021-merge-two-sorted-lists.py)|
