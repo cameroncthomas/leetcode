@@ -23,3 +23,4 @@ In the table below, you will find the original LeetCode problem and my solution 
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Medium` | [Python](python/0019-remove-nth-node-from-end-of-list.py)|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [Python](python/0020-valid-parentheses.py)|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | [Python](python/0021-merge-two-sorted-lists.py)|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `Medium` | [Python](python/0022-generate-parentheses.py)|
